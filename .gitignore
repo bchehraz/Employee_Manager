@@ -52,4 +52,4 @@ fastlane/report.xml
 fastlane/Preview.html
 fastlane/screenshots
 
-./src/firebase/index.js
+/src/firebase/index.js
